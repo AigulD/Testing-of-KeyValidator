@@ -35,6 +35,6 @@
 * 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1
 
 Тестирование производилось в следующем окружении:
-* Lenovo G580
-* Windows 10 Pro-64 bit
+* Устройство: Lenovo G580
+* ОС: Windows 10 Pro-64 bit
 * Java version: "11.0.8" 2020-07-14
